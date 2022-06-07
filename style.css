@@ -36,3 +36,15 @@ h1{
     width: 16vw;
     height: 11vh;
 }
+
+@media (max-width : 455px) {
+    .container {
+        width: 100vw;
+    }
+    .button {
+        width: 20vw;
+    }
+    .form{
+        width: 85vw;
+    }
+}
